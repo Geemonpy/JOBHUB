@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "talenthub",
+    "slug": "talenthub",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
+
+
+
+
+
+
